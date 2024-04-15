@@ -57,6 +57,7 @@ Sí, al seguir la respuesta a un ping, se puede observar el cambio de envío y r
 <p align="justify">
   Es necesario para segmentar el tráfico de red y mantener la seguridad al separar las comunicaciones de diferentes dispositivos o redes.
  </p>
+ 
 20. **Si esta simulación se configura con IPv6 en lugar de IPv4, ¿cuál sería la diferencia?**
 
 <p align="justify">
