@@ -11,7 +11,11 @@
 
 6. **¿El punto de acceso inalámbrico hizo algo con la información que se le entregó?**
 Sí se perdió la información un 25% en el envió a la laptop
- 
+<p align="center">
+  <img src="https://ca-times.brightspotcdn.com/dims4/default/796e6c9/2147483647/strip/true/crop/1970x1108+39+0/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F12%2Fa5%2F79e097ccf62312d18a025f22ce48%2Fhoyla-recuento-11-cosas-aman-gatos-top-001" alt="FOTO ODS 7" width="200px" />
+</p>
+
+
 Porque el mensaje que se envía es a larga distancia, la información tendera a perderse en algún punto.
 
 
