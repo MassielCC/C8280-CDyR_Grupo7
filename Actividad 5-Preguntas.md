@@ -1,6 +1,7 @@
 ## Preguntas de Actividad 5
 
 1. **¿Se utilizaron diferentes tipos de cables / medios para conectar dispositivos?**
+   
    se utilizaron 2 tipos de cables: Cobre y serie DTE
 
 3. **¿Los cables cambiaron el manejo de la PDU de alguna manera?**
