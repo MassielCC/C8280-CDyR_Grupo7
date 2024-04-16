@@ -1,4 +1,18 @@
+## Preguntas de Actividad 5
 
+1. **¿Se utilizaron diferentes tipos de cables / medios para conectar dispositivos?**
+
+2. **¿Los cables cambiaron el manejo de la PDU de alguna manera?**
+
+3. **¿El Hub perdió parte de la información que recibió?**
+
+4. **¿Qué hace el hub con las direcciones MAC y las direcciones IP?**
+
+5. **¿El punto de acceso inalámbrico hizo algo con la información que se le entregó?**
+
+6. **¿Se perdió alguna dirección MAC o IP durante la transferencia inalámbrica?**
+
+7. **¿Cuál fue la capa OSI más alta que utilizaron el hub y el punto de acceso?**
 
 8. **¿El hub o el punto de acceso reprodujeron en algún momento una PDU rechazada con una “X” de color rojo?**
 
