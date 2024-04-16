@@ -10,25 +10,29 @@
 5. **¿Qué hace el hub con las direcciones MAC y las direcciones IP?**
 
 6. **¿El punto de acceso inalámbrico hizo algo con la información que se le entregó?**
+Sí se perdió la información un 25% en el envió a la laptop
+ 
+Porque el mensaje que se envía es a larga distancia, la información tendera a perderse en algún punto.
 
-7. **¿Se perdió alguna dirección MAC o IP durante la transferencia inalámbrica?**
 
-8. **¿Cuál fue la capa OSI más alta que utilizaron el hub y el punto de acceso?**
+8. **¿Se perdió alguna dirección MAC o IP durante la transferencia inalámbrica?**
 
-9. **¿El hub o el punto de acceso reprodujeron en algún momento una PDU rechazada con una “X” de color rojo?**
+9. **¿Cuál fue la capa OSI más alta que utilizaron el hub y el punto de acceso?**
 
-10. **Al examinar la ficha PDU Details (Detalles de PDU), ¿qué dirección MAC aparecía primero, la de origen o la de destino?**
+10. **¿El hub o el punto de acceso reprodujeron en algún momento una PDU rechazada con una “X” de color rojo?**
 
-11. **¿Por qué las direcciones MAC aparecen en este orden?**
-12. **¿Había un patrón para el direccionamiento MAC en la simulación?**
+11. **Al examinar la ficha PDU Details (Detalles de PDU), ¿qué dirección MAC aparecía primero, la de origen o la de destino?**
 
-13. **¿Los switches reprodujeron en algún momento una PDU rechazada con una “X” de color rojo?**
+12. **¿Por qué las direcciones MAC aparecen en este orden?**
+13. **¿Había un patrón para el direccionamiento MAC en la simulación?**
 
-14. **Cada vez que se enviaba la PDU entre las redes 10 y 172, había un punto donde las direcciones MAC cambiaban repentinamente. ¿Dónde ocurrió eso?**
+14. **¿Los switches reprodujeron en algún momento una PDU rechazada con una “X” de color rojo?**
 
-15. **¿Qué dispositivo usa direcciones MAC que comienzan con 00D0: BA?**
+15. **Cada vez que se enviaba la PDU entre las redes 10 y 172, había un punto donde las direcciones MAC cambiaban repentinamente. ¿Dónde ocurrió eso?**
 
-16. **¿A qué dispositivos pertenecían las otras direcciones MAC?**
+16. **¿Qué dispositivo usa direcciones MAC que comienzan con 00D0: BA?**
+
+17. **¿A qué dispositivos pertenecían las otras direcciones MAC?**
     
 <p align="justify">
 Las otras direcciones MAC pertenecían a dispositivos como: laptop-PT y  PC-PT.
