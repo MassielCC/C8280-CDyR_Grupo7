@@ -47,6 +47,7 @@ No
 Ocurrió en el router
 14. **¿Qué dispositivo usa direcciones MAC que comienzan con 00D0: BA?**
 El router
+![Dirección MAC](imagen1.jpg)
 
 15. **¿A qué dispositivos pertenecían las otras direcciones MAC?**
     
