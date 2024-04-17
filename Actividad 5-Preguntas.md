@@ -3,7 +3,7 @@
 1. **¿Se utilizaron diferentes tipos de cables / medios para conectar dispositivos?**
    se utilizaron 2 tipos de cables: Cobre y serie DTE
 
- <p align="light">
+ <p align="light"> 
   <img src="https://i.postimg.cc/Vvyfhdrz/actv5-1jpg.jpg)](https://postimg.cc/G8Qn83xf)" alt="FOTO ODS 7" width="600px" />
 </p>
   
