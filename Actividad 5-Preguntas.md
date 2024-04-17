@@ -1,26 +1,21 @@
 ## Preguntas de Actividad 5
 
 1. **¿Se utilizaron diferentes tipos de cables / medios para conectar dispositivos?**
-   
    se utilizaron 2 tipos de cables: Cobre y serie DTE
    
 2. **¿Los cables cambiaron el manejo de la PDU de alguna manera?**
-   
 No, los cables en sí mismos no alteran el manejo de la PDU. La PDU se transmite a través de los cables según el protocolo de red utilizado, como Ethernet, y los cables simplemente facilitan la transmisión de datos sin modificar la PDU en sí misma.
 
 3.	**¿El Hub perdió parte de la información que recibió?**
-
 No, los hubs no pierden información de manera intencional. Sin embargo, debido a su naturaleza de difusión, todos los dispositivos conectados a un hub reciben todas las tramas de datos, lo que puede resultar en congestión y colisión de datos en la red, pero el hub no descarta intencionalmente ninguna información.
 
 4.	**¿Qué hace el hub con las direcciones MAC y las direcciones IP?**
 El hub no realiza ninguna acción específica con las direcciones MAC o IP. Simplemente retransmite los datos a todas las conexiones sin tener en cuenta las direcciones de destino. No realiza ningún análisis o filtrado basado en direcciones MAC o IP.
 
 5.	**¿El punto de acceso inalámbrico hizo algo con la información que se le entregó?**
-   
 Sí, el punto de acceso inalámbrico (AP) empaqueta la información como marcos inalámbricos para su transmisión a través de la red inalámbrica. Esto implica encapsular los datos en un formato adecuado para la transmisión inalámbrica y realizar la gestión de la conexión con los dispositivos inalámbricos que se conectan a él.
 
 6.	**¿Se perdió alguna dirección MAC o IP durante la transferencia inalámbrica?**
-   
 Sí se perdió la información un 25% en el envió a la laptop Porque el mensaje que se envía es a larga distancia, la información tendera a perderse en algún punto.
 
 <p align="light">
@@ -28,7 +23,7 @@ Sí se perdió la información un 25% en el envió a la laptop Porque el mensaje
 </p>
 
 7.	**¿Cuál fue la capa OSI más alta que utilizaron el hub y el punto de acceso?**
-
+La capa más baja que utilizaron es la Capa 1, que corresponde a la Capa Física del modelo OSI.
 
 8. **¿El hub o el punto de acceso reprodujeron en algún momento una PDU rechazada con una “X” de color rojo?**
 Si, cuando se envía el mensaje pasa por el Hub y llega a 172.16.31.3
