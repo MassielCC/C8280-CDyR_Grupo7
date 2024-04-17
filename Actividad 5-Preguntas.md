@@ -4,7 +4,7 @@
    se utilizaron 2 tipos de cables: Cobre y serie DTE
 
  <p align="light">
-  <img src="https://i.postimg.cc/fRM4kxnG/actv-5.jpg)](https://postimg.cc/6ybbm4Qc)" alt="FOTO ODS 7" width="600px" />
+  <img src="https://i.postimg.cc/Vvyfhdrz/actv5-1jpg.jpg)](https://postimg.cc/G8Qn83xf)" alt="FOTO ODS 7" width="600px" />
 </p>
   
    
