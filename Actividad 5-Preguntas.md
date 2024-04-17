@@ -2,6 +2,11 @@
 
 1. **¿Se utilizaron diferentes tipos de cables / medios para conectar dispositivos?**
    se utilizaron 2 tipos de cables: Cobre y serie DTE
+
+ <p align="light">
+  <img src="https://i.postimg.cc/fRM4kxnG/actv-5.jpg)](https://postimg.cc/6ybbm4Qc)" alt="FOTO ODS 7" width="600px" />
+</p>
+  
    
 2. **¿Los cables cambiaron el manejo de la PDU de alguna manera?**
 No, los cables en sí mismos no alteran el manejo de la PDU. La PDU se transmite a través de los cables según el protocolo de red utilizado, como Ethernet, y los cables simplemente facilitan la transmisión de datos sin modificar la PDU en sí misma.
