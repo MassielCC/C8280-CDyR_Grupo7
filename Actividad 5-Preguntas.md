@@ -3,14 +3,32 @@
 1. **¿Se utilizaron diferentes tipos de cables / medios para conectar dispositivos?**
    
    se utilizaron 2 tipos de cables: Cobre y serie DTE
+   
+2. **¿Los cables cambiaron el manejo de la PDU de alguna manera?**
+   
+No, los cables en sí mismos no alteran el manejo de la PDU. La PDU se transmite a través de los cables según el protocolo de red utilizado, como Ethernet, y los cables simplemente facilitan la transmisión de datos sin modificar la PDU en sí misma.
 
-3. **¿Los cables cambiaron el manejo de la PDU de alguna manera?**
+3.	¿El Hub perdió parte de la información que recibió?
 
-4. **¿El Hub perdió parte de la información que recibió?**
+No, los hubs no pierden información de manera intencional. Sin embargo, debido a su naturaleza de difusión, todos los dispositivos conectados a un hub reciben todas las tramas de datos, lo que puede resultar en congestión y colisión de datos en la red, pero el hub no descarta intencionalmente ninguna información.
 
-5. **¿Qué hace el hub con las direcciones MAC y las direcciones IP?**
+4.	¿Qué hace el hub con las direcciones MAC y las direcciones IP?
+El hub no realiza ninguna acción específica con las direcciones MAC o IP. Simplemente retransmite los datos a todas las conexiones sin tener en cuenta las direcciones de destino. No realiza ningún análisis o filtrado basado en direcciones MAC o IP.
 
-6. **¿El punto de acceso inalámbrico hizo algo con la información que se le entregó?**
+5.	¿El punto de acceso inalámbrico hizo algo con la información que se le entregó?
+Sí, el punto de acceso inalámbrico (AP) empaqueta la información como marcos inalámbricos para su transmisión a través de la red inalámbrica. Esto implica encapsular los datos en un formato adecuado para la transmisión inalámbrica y realizar la gestión de la conexión con los dispositivos inalámbricos que se conectan a él.
+
+6.	**¿Se perdió alguna dirección MAC o IP durante la transferencia inalámbrica?**
+Sí se perdió la información un 25% en el envió a la laptop
+
+
+8. **¿Los cables cambiaron el manejo de la PDU de alguna manera?**
+
+9. **¿El Hub perdió parte de la información que recibió?**
+
+10. **¿Qué hace el hub con las direcciones MAC y las direcciones IP?**
+
+11. **¿El punto de acceso inalámbrico hizo algo con la información que se le entregó?**
 
 Sí se perdió la información un 25% en el envió a la laptop porque el mensaje que se envía es a larga distancia, la información tendera a perderse en algún punto.
 
