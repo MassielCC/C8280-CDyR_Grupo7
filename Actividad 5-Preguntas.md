@@ -87,4 +87,4 @@ Sí, al seguir la respuesta a un ping, se puede observar el cambio de envío y r
  </p>
 
 [VIDEO DE LA ACTIVIDAD](https://drive.google.com/file/d/1Tlcle0xfso9_v0IXUv7ozB1l3iiOEh-A/view?usp=sharing)
-[](https://drive.google.com/file/d/1Tlcle0xfso9_v0IXUv7ozB1l3iiOEh-A/view?usp=sharing)
+
