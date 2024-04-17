@@ -86,4 +86,5 @@ Sí, al seguir la respuesta a un ping, se puede observar el cambio de envío y r
   Si se configura con IPv6 en lugar de IPv4, la diferencia principal sería el uso de direcciones IPv6, que son mucho más largas y permiten un número mucho mayor de direcciones únicas en comparación con IPv4. Además, IPv6 tiene características de seguridad y autoconfiguración mejoradas en comparación con IPv4.
  </p>
 
-[VIDEO](https://drive.google.com/file/d/1Tlcle0xfso9_v0IXUv7ozB1l3iiOEh-A/view?usp=sharing)
+[VIDEO DE LA ACTIVIDAD](https://drive.google.com/file/d/1Tlcle0xfso9_v0IXUv7ozB1l3iiOEh-A/view?usp=sharing)
+[](https://drive.google.com/file/d/1Tlcle0xfso9_v0IXUv7ozB1l3iiOEh-A/view?usp=sharing)
