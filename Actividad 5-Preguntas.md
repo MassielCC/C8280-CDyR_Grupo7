@@ -36,7 +36,7 @@ Sí se perdió la información un 25% en el envió a la laptop porque el mensaje
 
 16. **¿Qué dispositivo usa direcciones MAC que comienzan con 00D0: BA?**
 
-17. **¿A qué dispositivos pertenecían las otras direcciones MAC?**
+15. **¿A qué dispositivos pertenecían las otras direcciones MAC?**
     
 <p align="justify">
 Las otras direcciones MAC pertenecían a dispositivos como: laptop-PT y  PC-PT.
