@@ -19,22 +19,22 @@ Sí se perdió la información un 25% en el envió a la laptop porque el mensaje
 </p>
 
 
-8. **¿Se perdió alguna dirección MAC o IP durante la transferencia inalámbrica?**
+7. **¿Se perdió alguna dirección MAC o IP durante la transferencia inalámbrica?**
 
-9. **¿Cuál fue la capa OSI más alta que utilizaron el hub y el punto de acceso?**
+8. **¿Cuál fue la capa OSI más alta que utilizaron el hub y el punto de acceso?**
 
-10. **¿El hub o el punto de acceso reprodujeron en algún momento una PDU rechazada con una “X” de color rojo?**
+8. **¿El hub o el punto de acceso reprodujeron en algún momento una PDU rechazada con una “X” de color rojo?**
 
-11. **Al examinar la ficha PDU Details (Detalles de PDU), ¿qué dirección MAC aparecía primero, la de origen o la de destino?**
+9. **Al examinar la ficha PDU Details (Detalles de PDU), ¿qué dirección MAC aparecía primero, la de origen o la de destino?**
 
-12. **¿Por qué las direcciones MAC aparecen en este orden?**
-13. **¿Había un patrón para el direccionamiento MAC en la simulación?**
+10. **¿Por qué las direcciones MAC aparecen en este orden?**
+11. **¿Había un patrón para el direccionamiento MAC en la simulación?**
 
-14. **¿Los switches reprodujeron en algún momento una PDU rechazada con una “X” de color rojo?**
+12. **¿Los switches reprodujeron en algún momento una PDU rechazada con una “X” de color rojo?**
 
-15. **Cada vez que se enviaba la PDU entre las redes 10 y 172, había un punto donde las direcciones MAC cambiaban repentinamente. ¿Dónde ocurrió eso?**
+13. **Cada vez que se enviaba la PDU entre las redes 10 y 172, había un punto donde las direcciones MAC cambiaban repentinamente. ¿Dónde ocurrió eso?**
 
-16. **¿Qué dispositivo usa direcciones MAC que comienzan con 00D0: BA?**
+14. **¿Qué dispositivo usa direcciones MAC que comienzan con 00D0: BA?**
 
 15. **¿A qué dispositivos pertenecían las otras direcciones MAC?**
     
