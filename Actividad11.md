@@ -22,9 +22,11 @@ Preguntas:
    Cuando tienes algunos dispositivos que están haciendo más trabajo que otros en una red P2P, puedes usar algoritmos especiales para asegurarte de que todos compartan la carga de trabajo por igual. También puedes usar trucos como guardar información temporalmente en diferentes dispositivos para que no se sature uno solo. De esta manera, todos los dispositivos pueden trabajar juntos de manera eficiente
 
 
-   
-
-
+![Captura desde 2024-05-02 07-12-02](https://github.com/MassielCC/C8280-CDyR_Grupo7/assets/168385917/83176852-3bf2-41e0-b22a-212b9a50e7b6)
+![Captura desde 2024-05-02 07-16-21](https://github.com/MassielCC/C8280-CDyR_Grupo7/assets/168385917/ba69b3b9-f076-4e87-b223-e7270e1aecb9)
+![Captura desde 2024-05-02 07-16-54](https://github.com/MassielCC/C8280-CDyR_Grupo7/assets/168385917/7d7b1c10-0cd8-4734-a1dd-cd7dd63dd219)
+![Captura desde 2024-05-02 07-21-15](https://github.com/MassielCC/C8280-CDyR_Grupo7/assets/168385917/86c01bf0-a91a-4051-a4e9-8ad0fe720f19)
+![Captura desde 2024-05-02 07-22-51](https://github.com/MassielCC/C8280-CDyR_Grupo7/assets/168385917/195edfa8-d754-433c-aa5c-199413a9f029)
 
 
 
