@@ -22,6 +22,11 @@ Preguntas:
    Cuando tienes algunos dispositivos que están haciendo más trabajo que otros en una red P2P, puedes usar algoritmos especiales para asegurarte de que todos compartan la carga de trabajo por igual. También puedes usar trucos como guardar información temporalmente en diferentes dispositivos para que no se sature uno solo. De esta manera, todos los dispositivos pueden trabajar juntos de manera eficiente
 
 
+   
+
+
+
+
 
 
 import socket
