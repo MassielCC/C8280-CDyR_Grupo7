@@ -17,3 +17,79 @@ Preguntas:
 4. *¿Cómo gestionarías el balanceo de carga al incorporar nodos que actúan como clientes y servidores?*
    Al incorporar nodos que actúan como clientes y servidores en una red P2P, es importante gestionar el balanceo de carga para evitar el uso desigual de los recursos. Esto se puede lograr utilizando algoritmos de balanceo de carga que distribuyan equitativamente las solicitudes entre los nodos disponibles. También se pueden aplicar técnicas como el almacenamiento en caché para reducir la carga en los nodos más activos y mejorar el rendimiento del sistema en general.
 
+
+
+
+import socket
+import threading
+
+class Peer:
+    def __init__(self, host, port):
+        self.host = host
+        self.port = port
+        self.peers = []
+        self.server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        self.server.bind((self.host, self.port))
+        self.server.listen(5)
+        print(f"Nodo iniciado en {self.host}:{self.port}")
+        threading.Thread(target=self.accept_connections).start()
+
+    def accept_connections(self):
+        while True:
+            client, address = self.server.accept()
+            print(f"Conectado con {address[0]}:{address[1]}")
+            self.peers.append(client)
+            threading.Thread(target=self.handle_client, args=(client,)).start()
+
+    def handle_client(self, client):
+        while True:
+            try:
+                data = client.recv(1024)
+                if data:
+                    print(f"Recibido: {data.decode()}")
+                    self.broadcast_data(data, client)
+            except Exception as e:
+                print(f"Error: {e}")
+                client.close()
+                self.peers.remove(client)
+                break
+
+    def broadcast_data(self, data, sender):
+        for peer in self.peers:
+            if peer is not sender:
+                peer.send(data)
+
+    def send_message(self, message):
+        encoded_message = message.encode()
+        for peer in self.peers:
+            peer.send(encoded_message)
+
+    def connect_to_peer(self, host, port):
+        client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        client.connect((host, port))
+        self.peers.append(client)
+        print(f"Conectado al par en {host}:{port}")
+
+def start_peer():
+    node = Peer('127.0.0.1', 600)
+
+    while True:
+        print("1. Conectar a un par")
+        print("2. Enviar mensaje a todos los pares")
+        print("3. Salir")
+        choice = input("Ingrese su opción: ")
+
+        if choice == '1':
+            host = input("Ingrese la dirección IP del par: ")
+            port = int(input("Ingrese el puerto del par: "))
+            node.connect_to_peer(host, port)
+        elif choice == '2':
+            message = input("Ingrese el mensaje a enviar: ")
+            node.send_message(message)
+        elif choice == '3':
+            break
+        else:
+            print("Opción no válida. Inténtelo de nuevo.")
+
+start_peer()
+
